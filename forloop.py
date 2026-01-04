@@ -32,4 +32,9 @@ for i in range(1,11):
 # Example 6: for loop to printing the reverse pattern printing;
 for i in range(11, 1, -1):
     print("*" * i)
-    
+
+# Example 7: for loop to printing n time of number:
+
+n = int(input("enter the value of n: "))
+for i in range(1, n): # In n = (n-1) then if I will give n = 101, then it will printing counting to 1 to 100.
+    print(i)

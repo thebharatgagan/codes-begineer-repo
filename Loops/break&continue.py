@@ -24,7 +24,7 @@ for i in range(1, 11):
     print(i)  # when i is equal to 2 it will skip the print statement for that iteration.
     
     
-# Example 2: using continue statement in while loop.
+# Example 2: using continue statement in while loop:
 num = 1
 while(num <= 10):
     if(num == 5):

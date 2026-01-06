@@ -1,13 +1,13 @@
 # Conditional Statement is used for decision making in programming. 
 # We are Peforming with the help of if, elif and else statements.
 
-# Example 1: Simple if statement using user input
+# Example 1: Simple if statement using user input:
 
 age = int(input("Enter the age: "))
 if(age > 19):
     print("You are adult.")
     
-# Example 2: if-else statement
+# Example 2: if-else statement:
 
 marks = int(input("enter the marks: "))
 if(marks > 33):
@@ -15,7 +15,7 @@ if(marks > 33):
 else:
     print("you are failed in exam.")
     
-# Example 3: if-elif-else statement
+# Example 3: if-elif-else statement:
 
 marks = int(input("enter the marks: "))
 if(marks > 33):

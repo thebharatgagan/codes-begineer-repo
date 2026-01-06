@@ -24,12 +24,12 @@ for i in range(1,11):
     print(num * i)
     
     
-# Example 5: for loop to printing the pattern printing;
+# Example 5: for loop to printing the pattern printing:
 
 for i in range(1,11):
     print("*" * i)
 
-# Example 6: for loop to printing the reverse pattern printing;
+# Example 6: for loop to printing the reverse pattern printing:
 for i in range(11, 1, -1):
     print("*" * i)
 
